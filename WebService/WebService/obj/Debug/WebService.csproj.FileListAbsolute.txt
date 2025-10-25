@@ -1,0 +1,7 @@
+C:\Users\hamed\source\repos\WebService\WebService\bin\WebService.dll.config
+C:\Users\hamed\source\repos\WebService\WebService\bin\WebService.dll
+C:\Users\hamed\source\repos\WebService\WebService\bin\WebService.pdb
+C:\Users\hamed\source\repos\WebService\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\hamed\source\repos\WebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\hamed\source\repos\WebService\WebService\obj\Debug\WebService.dll
+C:\Users\hamed\source\repos\WebService\WebService\obj\Debug\WebService.pdb

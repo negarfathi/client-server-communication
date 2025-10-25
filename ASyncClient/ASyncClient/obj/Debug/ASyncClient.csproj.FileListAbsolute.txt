@@ -1,0 +1,10 @@
+C:\Users\hamed\source\repos\ASyncClient\ASyncClient\bin\Debug\ASyncClient.exe.config
+C:\Users\hamed\source\repos\ASyncClient\ASyncClient\bin\Debug\ASyncClient.exe
+C:\Users\hamed\source\repos\ASyncClient\ASyncClient\bin\Debug\ASyncClient.pdb
+C:\Users\hamed\source\repos\ASyncClient\ASyncClient\obj\Debug\ASyncClient.csprojAssemblyReference.cache
+C:\Users\hamed\source\repos\ASyncClient\ASyncClient\obj\Debug\ASyncClient.Form.resources
+C:\Users\hamed\source\repos\ASyncClient\ASyncClient\obj\Debug\ASyncClient.Properties.Resources.resources
+C:\Users\hamed\source\repos\ASyncClient\ASyncClient\obj\Debug\ASyncClient.csproj.GenerateResource.cache
+C:\Users\hamed\source\repos\ASyncClient\ASyncClient\obj\Debug\ASyncClient.csproj.CoreCompileInputs.cache
+C:\Users\hamed\source\repos\ASyncClient\ASyncClient\obj\Debug\ASyncClient.exe
+C:\Users\hamed\source\repos\ASyncClient\ASyncClient\obj\Debug\ASyncClient.pdb

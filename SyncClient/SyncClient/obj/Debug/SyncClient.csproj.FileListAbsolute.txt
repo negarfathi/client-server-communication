@@ -1,0 +1,10 @@
+C:\Users\hamed\source\repos\SyncClient\SyncClient\bin\Debug\SyncClient.exe.config
+C:\Users\hamed\source\repos\SyncClient\SyncClient\bin\Debug\SyncClient.exe
+C:\Users\hamed\source\repos\SyncClient\SyncClient\bin\Debug\SyncClient.pdb
+C:\Users\hamed\source\repos\SyncClient\SyncClient\obj\Debug\SyncClient.csprojAssemblyReference.cache
+C:\Users\hamed\source\repos\SyncClient\SyncClient\obj\Debug\SyncClient.Form.resources
+C:\Users\hamed\source\repos\SyncClient\SyncClient\obj\Debug\SyncClient.Properties.Resources.resources
+C:\Users\hamed\source\repos\SyncClient\SyncClient\obj\Debug\SyncClient.csproj.GenerateResource.cache
+C:\Users\hamed\source\repos\SyncClient\SyncClient\obj\Debug\SyncClient.csproj.CoreCompileInputs.cache
+C:\Users\hamed\source\repos\SyncClient\SyncClient\obj\Debug\SyncClient.exe
+C:\Users\hamed\source\repos\SyncClient\SyncClient\obj\Debug\SyncClient.pdb
